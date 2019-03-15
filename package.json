@@ -1,0 +1,26 @@
+{
+  "name": "trainings",
+  "version": "1.0.0",
+  "description": "training funcktions with tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightmonk1911/trainings.git"
+  },
+  "keywords": [
+    "testing",
+    "training"
+  ],
+  "author": "igor babenkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightmonk1911/trainings/issues"
+  },
+  "homepage": "https://github.com/lightmonk1911/trainings#readme",
+  "dependencies": {
+    "jest": "^24.5.0"
+  }
+}
