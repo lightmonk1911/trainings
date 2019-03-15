@@ -1,0 +1,5 @@
+# trainings
+
+##Test
+
+npm test
